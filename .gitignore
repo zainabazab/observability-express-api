@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Compiled JavaScript
+dist/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
